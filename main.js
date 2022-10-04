@@ -9,6 +9,7 @@ openNavBtn.addEventListener('click', () => {
 })
 
 
+
 const closeNav = () => {
     navItems.style.display = 'none';
     openNavBtn.style.display = 'inline-block';
